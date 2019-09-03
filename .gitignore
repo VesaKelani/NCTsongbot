@@ -105,3 +105,6 @@ venv.bak/
 
 # secrets
 credentials.py
+
+# storage
+latest_tweet_id.txt
